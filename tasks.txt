@@ -1,0 +1,8 @@
+git add -A      
+git commit -m "Updated the Layout of Web-Page"
+git push origin bhuvnendra
+
+
+
+nextGenAi logo /icon /
+servies>blog
